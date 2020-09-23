@@ -51,6 +51,7 @@ Some keywords:
 - Interactive music systems
 - Sound art
 - Environmental sound
+- Expanded listening
 - Machine listening
 
 On the last point, machine listening, I found something unexpected. In looking into machine listening, I was expecting to find work dealing with machine analysis and interpretation of sound, spectral analysis, auditory scene analysis, and so on. What was surprising was finding an emerging use of the term to refer to devices that listen and observe - smart phones that record audio surreptitiously, Amazon Alexas and Google Homes, smart TVs and IoT connected appliances - related to present issues around surveillance, privacy, control, and manipulation. This is another area that I'm very interested in - and that I do think is related in issues around machine learning and big data - but have struggled to figure out how to engage with creatively, or to synthesize with my sound and music interests. The apparent synchronicity of stumbling upon this new use of "machine listening" has me wondering if there is an interesting way to think about surveillance, sound performance, and musical systems - but maybe I'm going to broad when I should be narrowing in.
