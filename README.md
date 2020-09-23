@@ -42,4 +42,17 @@ This leads me towards an a potential area of research. I subscribe to Christophe
 
 I have to admit, the suggestion to project into the future an imagine what a field might look like has thrown me for a bit of a loop. Projections of the future look increasingly apocalyptic. I find myself asking questions about the purpose of music, performance, art in a climate apocalypse - and these questions are actually, I think, a little easier to grapple with. There is always value in art and expression, and comfort in times of strife. But, more specifically, what is the role of technologically mediated art in that environment? And, thinking of Small's definition above, who gets to be involved? Do technology based music become reserved for an affluent few? Are there ways that digital instruments/music making/performing exist to benefit a wider swath of people? Do these practices take on new roles? I don't know how to answer or really even engage with these questions, but they were in mind throughout my research process.
 
+Some keywords:
+- Digital music instruments
+- Gestural interfaces
+- Machine learning
+- Computer music
+- Interactive music systems
+- Sound art
+- Environmental sound
+- Machine listening
+
+On the last point, machine listening, I found something unexpected. In looking into machine listening, I was expecting to find work dealing with machine analysis and interpretation of sound, spectral analysis, auditory scene analysis, and so on. What was surprising was finding an emerging use of the term to refer to devices that listen and observe - smart phones that record audio surreptitiously, Amazon Alexas and Google Homes, smart TVs and IoT connected appliances - related to present issues around surveillance, privacy, control, and manipulation. This is another area that I'm very interested in - and that I do think is related in issues around machine learning and big data - but have struggled to figure out how to engage with creatively, or to synthesize with my sound and music interests. The apparent synchronicity of stumbling upon this new use of "machine listening" has me wondering if there is an interesting way to think about surveillance, sound performance, and musical systems - but maybe I'm going to broad when I should be narrowing in.
+
+
 
