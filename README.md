@@ -47,6 +47,7 @@ Some keywords:
 - Gestural interfaces
 - Machine learning
 - Computer music
+- Embodiment and embodied cognition
 - Interactive music systems
 - Sound art
 - Environmental sound
