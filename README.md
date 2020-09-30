@@ -5,46 +5,85 @@ DM Foundations
 Bibliography
 
 Anderson, Christine. “Dynamic Networks of Sonic Interactions: An Interview with Agostino Di Scipio.” Computer Music Journal 29, no. 3 (2005): 11–28. https://doi.org/10.1162/0148926054798142. 
-Bahn, Curtis, Tomie Hahn, and Dan Trueman. “Physicality and Feedback: a Focus on the Body in the Performance of Electronic Music.” Proceedings of the International Computer Music Conference, 2001, 44–51. 
+
+Bahn, Curtis, Tomie Hahn, and Dan Trueman. “Physicality and Feedback: a Focus on the Body in the Performance of Electronic Music.” Proceedings of the International Computer Music Conference, 2001, 44–51.
+
 Berdahl, Edgar Joseph. “Applications of Feedback Control to Musical Instrument Design,” 2009. 
+
 Bowers, John, and Sten Olof Hellström. “Simple Interfaces to Complex Sound in Improvised Music.” CHI '00 extended abstracts on Human factors in computing systems  - CHI '00, 2000. https://doi.org/10.1145/633292.633364. 
+
 Bown, Oliver, Alice Eldridge, and Jon Mccormack. “Understanding Interaction in Contemporary Digital Music: from Instruments to Behavioural Objects.” Organised Sound 14, no. 2 (2009): 188–96. https://doi.org/10.1017/s1355771809000296. 
+
 Camurri, A., G. Volpe, G. De Poli, and M. Leman. “Communicating Expressiveness and Affect in Multimodal Interactive Systems.” IEEE Multimedia 12, no. 1 (2005): 43–53. https://doi.org/10.1109/mmul.2005.2. 
+
 Clarke, Eric F. Ways of Listening an Ecological Approach to the Perception of Musical Meaning. Oxford: Oxford University Press, 2005. 
+
 Collins, N. M. “Towards Autonomous Agents for Live Computer Music: Realtime Machine Listening and Interactive Music Systems,” 2006. 
+
 Cypess, Rebecca, and Steven Kemper. “The Anthropomorphic Analogy: Humanising Musical Machines in the Early Modern and Contemporary Eras.” Organised Sound 23, no. 2 (2018): 167–80. https://doi.org/10.1017/s1355771818000043. 
+
 Donnarumma, Marco. “Music for the Flesh II: Informing Interactive Music Performances with the Viscerality of the Body System.” NIME, 2012. 
-Driscoll, John, and Matt Rogalsky. “David Tudor's Rainforest: An Evolving Exploration of Resonance.” Leonardo Music Journal 14 (2004): 25–30. https://doi.org/10.1162/0961121043067415. 
+
+Driscoll, John, and Matt Rogalsky. “David Tudor's Rainforest: An Evolving Exploration of Resonance.” Leonardo Music Journal 14 (2004): 25–30. https://doi.org/10.1162/0961121043067415.
+
 Eck, Cathy van. Between Air and Electricity: Microphones and Loudspeakers as Musical Instruments. New York, NY: Bloomsbury Academic, 2018. 
+
 Godøy, Rolf Inge., and Marc Leman. Musical Gestures Sound, Movement, and Meaning. New York: Routledge, 2010. 
+
 Hegarty, Paul. “Noise Music.” The Semiotic Review of Books, 2006, 1–6. 
+
 Kahn, Douglas. Noise, Water, Meat: a History of Sound in the Arts. Cambridge, MA: MIT Press, 1999. 
+
 Kemper, Steven, and Rebecca Cypess. “Can Musical Machines Be Expressive? Views from the Enlightenment and Today.” Leonardo 52, no. 5 (2019): 448–54. https://doi.org/10.1162/leon_a_01477. 
+
 Knight, Arthur, and Simon Frith. “Performing Rites: On the Value of Popular Music.” American Music 16, no. 4 (1998): 485. https://doi.org/10.2307/3052293. 
+
 LaBelle, Brandon. Sonic Agency: Sound and Emergent Forms of Resistance. Cambridge, MA: MIT Press, 2020. 
+
 Landy, Leigh. Understanding the Art of Sound Organization. Cambridge, MA: MIT Press, 2007. 
+
 Leman, Marc. Embodied Music Cognition and Mediation Technology. Cambridge, MA: MIT Press, 2008. 
+
 Lähdeoja, Otso. “Composing the Context: Considerations on Materially Mediated Electronic Musicianship.” Organised Sound 23, no. 1 (2017): 61–70. https://doi.org/10.1017/s1355771817000280. 
-Maes, Pieter-Jan, Marc Leman, Caroline Palmer, and Marcelo M. Wanderley. “Action-Based Effects on Music Perception.” Frontiers in Psychology 4 (January 2014). https://doi.org/10.3389/fpsyg.2013.01008. 
+
+Maes, Pieter-Jan, Marc Leman, Caroline Palmer, and Marcelo M. Wanderley. “Action-Based Effects on Music Perception.” Frontiers in Psychology 4 (January 2014). https://doi.org/10.3389/fpsyg.2013.01008.
+
 Magnusson, Thor. “Designing Constraints: Composing and Performing with Digital Musical Systems.” Computer Music Journal 34, no. 4 (2010): 62–73. https://doi.org/10.1162/comj_a_00026. 
-Oliveros, Pauline. Software for People: Collected Writings 1963-80. Kingston, NY: Pauline Oliveros Publications, 2015. 
-Overholt, Dan, Edgar Berdahl, and Robert Hamilton. “Advancements in Actuated Musical Instruments.” Organised Sound 16, no. 2 (2011): 154–65. https://doi.org/10.1017/s1355771811000100. 
-Raphael, Christopher. “Music Plus One and Machine Learning.” ICML 2010 - Proceedings, 27th International Conference on Machine Learning, 2010, 21–28. 
-Reybrouck, Mark, and Elvira Brattico. “Neuroplasticity beyond Sounds: Neural Adaptations Following Long-Term Musical Aesthetic Experiences.” Brain Sciences 5, no. 1 (2015): 69–91. https://doi.org/10.3390/brainsci5010069. 
-Rowe, Robert. Interactive Music Systems: Machine Listening and Composing. Cambridge, MA: MIT Press, 1994. 
-Samuels, Koichi, and Franziska Schroeder. “Performance without Barriers: Improvising with Inclusive and Accessible Digital Musical Instruments.” Contemporary Music Review 38, no. 5 (2019): 476–89. https://doi.org/10.1080/07494467.2019.1684061. 
-Schiavio, Andrea, and Simon Høffding. “Playing Together without Communicating? A Pre-Reflective and Enactive Account of Joint Musical Performance.” Musicae Scientiae 19, no. 4 (2015): 366–88. https://doi.org/10.1177/1029864915593333. 
-Scipio, Agostino Di. “Dwelling in a Field of Sonic Relationships.” Live Electronic Music, 2017, 17–45. https://doi.org/10.4324/9781315776989-2. 
-Scipio, Agostino Di. “‘Sound Is the Interface’: from Interactive to Ecosystemic Signal Processing.” Organised Sound 8, no. 3 (2003): 269–77. https://doi.org/10.1017/s1355771803000244. 
-Sterne, Jonathan. “Music as a Media Problem: Some Comments and Approaches.” Repercussions, 2014. http://www.ocf.berkeley.edu/~repercus/wpcontent/uploads/2015/1/repercussions-Vol.-11–Sterne-Jonathan-Music-as-aMedia-Problem.pdf. 
-Tanaka, Atau. “Sensor-Based Musical Instruments and Interactive Music.” Essay. In The Oxford Handbook of Computer Music. Oxford: Oxford University Press, 2011. 
-Truax, Barry. “Electroacoustic Music and the Soundscape: The Inner and Outer World.” Essay. In Companion to Contemporary Musical Thought, 374–98. London: Routledge, 1992. 
-Voskuhl, Adelheid. Androids in the Enlightenment: Mechanics, Artisans, and Cultures of the Self. Chicago, IL: The University of Chicago Press, 2015. 
-Wanderley, M.m., and P. Depalle. “Gestural Control of Sound Synthesis.” Proceedings of the IEEE 92, no. 4 (2004): 632–44. https://doi.org/10.1109/jproc.2004.825882. 
-Waters, Simon. “Performance Ecosystems: Ecological Approaches to Musical Interaction.” EMS: Electroacoustic Music Studies Network , 2007, 1–20. 
-Wessel, David, and Matthew Wright. “Problems and Prospects for Intimate Musical Control of Computers.” Computer Music Journal 26, no. 3 (2002): 11–22. https://doi.org/10.1162/014892602320582945. 
-Xia, Guangyu. “Expressive Collaborative Music Performance via Machine Learning,” 2016. 
-	“2001: Problems and Prospects for Intimate Musical Control of Computers.” A NIME Reader Current Research in Systematic Musicology, 2017, 15–27. https://doi.org/10.1007/978-3-319-47214-0_2. 
+
+Oliveros, Pauline. Software for People: Collected Writings 1963-80. Kingston, NY: Pauline Oliveros Publications, 2015.
+
+Overholt, Dan, Edgar Berdahl, and Robert Hamilton. “Advancements in Actuated Musical Instruments.” Organised Sound 16, no. 2 (2011): 154–65. https://doi.org/10.1017/s1355771811000100.
+
+Raphael, Christopher. “Music Plus One and Machine Learning.” ICML 2010 - Proceedings, 27th International Conference on Machine Learning, 2010, 21–28.
+
+Reybrouck, Mark, and Elvira Brattico. “Neuroplasticity beyond Sounds: Neural Adaptations Following Long-Term Musical Aesthetic Experiences.” Brain Sciences 5, no. 1 (2015): 69–91. https://doi.org/10.3390/brainsci5010069.
+
+Rowe, Robert. Interactive Music Systems: Machine Listening and Composing. Cambridge, MA: MIT Press, 1994.
+
+Samuels, Koichi, and Franziska Schroeder. “Performance without Barriers: Improvising with Inclusive and Accessible Digital Musical Instruments.” Contemporary Music Review 38, no. 5 (2019): 476–89. https://doi.org/10.1080/07494467.2019.1684061.
+
+Schiavio, Andrea, and Simon Høffding. “Playing Together without Communicating? A Pre-Reflective and Enactive Account of Joint Musical Performance.” Musicae Scientiae 19, no. 4 (2015): 366–88. https://doi.org/10.1177/1029864915593333.
+
+Scipio, Agostino Di. “Dwelling in a Field of Sonic Relationships.” Live Electronic Music, 2017, 17–45. https://doi.org/10.4324/9781315776989-2.
+
+Scipio, Agostino Di. “‘Sound Is the Interface’: from Interactive to Ecosystemic Signal Processing.” Organised Sound 8, no. 3 (2003): 269–77. https://doi.org/10.1017/s1355771803000244.
+
+Sterne, Jonathan. “Music as a Media Problem: Some Comments and Approaches.” Repercussions, 2014. http://www.ocf.berkeley.edu/~repercus/wpcontent/uploads/2015/1/repercussions-Vol-11–Sterne-Jonathan-Music-as-aMedia-Problem.pdf.
+
+Tanaka, Atau. “Sensor-Based Musical Instruments and Interactive Music.” Essay. In The Oxford Handbook of Computer Music. Oxford: Oxford University Press, 2011.
+
+Truax, Barry. “Electroacoustic Music and the Soundscape: The Inner and Outer World.” Essay. In Companion to Contemporary Musical Thought, 374–98. London: Routledge, 1992.
+
+Voskuhl, Adelheid. Androids in the Enlightenment: Mechanics, Artisans, and Cultures of the Self. Chicago, IL: The University of Chicago Press, 2015.
+
+Wanderley, M.m., and P. Depalle. “Gestural Control of Sound Synthesis.” Proceedings of the IEEE 92, no. 4 (2004): 632–44. https://doi.org/10.1109/jproc.2004.825882.
+
+Waters, Simon. “Performance Ecosystems: Ecological Approaches to Musical Interaction.” EMS: Electroacoustic Music Studies Network , 2007, 1–20.
+
+Wessel, David, and Matthew Wright. “Problems and Prospects for Intimate Musical Control of Computers.” Computer Music Journal 26, no. 3 (2002): 11–22. https://doi.org/10.1162/014892602320582945.
+
+Xia, Guangyu. “Expressive Collaborative Music Performance via Machine Learning,” 2016.
+
 
 
 ## Journal 1
