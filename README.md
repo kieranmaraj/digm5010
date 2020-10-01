@@ -1,8 +1,43 @@
 # digm5010
 DM Foundations
 
+## Journal 2
+
+### Sketch #2: Chitin
+
+[Chitin](https://en.wikipedia.org/wiki/Chitin) is the material that composes insect exoskeletons. It is also an updated version of my previous GrainSOM sketch that implements several of changes I had previously noted. In this version, input gestures have more influence on the sonic behaviour - fast movements result in pitch modulations (a pseduo-doppler effect), longer gestures are routed through a reverb engine, and the mark position influences grain size and overlap. As before, there is a SOM underneath the animation. Whereas in the previous version the SOM weights directly set synthesis parameters, this time the SOM weights modulate those values. I find I prefer this balance between human gesture and machine control - this balance provides variety and unpredictable randomness, but it applies it to a gesture that feels like it had more intention to begin with. 
+
+I’ve additionally implemented some random sampling from [freesound.org](http://freesound.org). I’ve setup a bank of keywords to randomly query the Freesound API with on startup, and then randomly sample from the results to set granulation sources. I’ve found that a lot of the sounds returned are foley-esque sounds, which when layered and granulated on top of each other tend towards dense insect soundscapes - hence Chitin.
+
+<p class="codepen" data-height="438" data-theme-id="dark" data-default-tab="js,result" data-user="kieranmaraj" data-slug-hash="rNeQbov" data-preview="true" style="height: 438px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="chitin">
+  <span>See the Pen <a href="https://codepen.io/kieranmaraj/pen/rNeQbov">
+  chitin</a> by Kieran Maraj (<a href="https://codepen.io/kieranmaraj">@kieranmaraj</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+
+### Braitenberg Vehicles
+
+I had read the first few vehicle descriptions several years ago, and it was interesting to come back to it after a period of time in which the way I think has changed quite a bit. From this subset of vehicles, one of the things that seems unaccounted for is self awareness - Braitenberg  only posits that the vehicles *appear* to be aware to an outside observer. I’m curious if the later vehicles find ways to take this into account. 
+
+The idea that intelligent beings are simply composed of a vast array of simple sensory inputs and outputs is one that I’ve encountered frequently, and one that I have mixed feelings about. I think that at a material, biological level it is true, and it opens up exciting new possibilities for how we think about knowledge and intelligence and who and what we consider to be intelligent. It provides a framework for, perhaps, approaching the intelligence of plants and living things that are vastly different from humans. But at the same time, the implication that humans - and other life - are advanced machinery intersects with the socio-economic aspects of the human world in unfortunate ways. If humans are machines, and we look at the history of machines and, say, their relationships with labour, what does it mean if we treat humans like machines? Does the power dynamic of that become one in which people are expected to do and perform to exact specifications, like a computer? And, tangential but related, I find it interesting how our metaphorical conceptions of the mind have changed over time, and how they seem to reflect technological trends of their time: the humors of ancient Greece, to factories of the industrial revolution, to the computers of now.
+
+Regarding the more technical systems design material, though, I’m less conflicted and mostly just excited about the possibilities of applying some of these concepts in sound systems. I found myself thinking again about no-input mixing and how many of the feedback loops, gates and thresholds Braitenberg discusses feel like qualities inherent in a no-input mixer - thresholds for big sonic leaps, a dynamic variation of those thresholds, complex behaviour emerging from simple mappings, and behaviour at the output directly feeding back into the system. 
+
+### Interface as Instrument
+
+This piece really resonated with me, as well as gave me a bit of a laugh. It was published in 2005, which would have been right around the time I first started playing with digital audio with a copy of Cool Edit Pro, and I find it so funny that what Magnusson says about digital instruments not needing to be so indebted to analog studio technology is a major frustration I’ve had with the world of DAWs and plugins, 15 years later. It’s definitely gotten better in the last few years, I think in part due to the popularity of modular synthesis, but it certainly feels like there’s still vast room for experimentation, even in the world of commercial software. I’ve personally often found weird, free plugins that only work half the time to be the most interesting sound generators. 
+
+The discussion of interface is interesting, but I find myself less interested in the onscreen interface than the physical interface into sonic systems. I worked as a recording engineer for a few years, and really developed this sense that working with digital audio, even at just the level of eq’ing and compressing is a process akin to sculpting. While I was spending most of my time editing recordings of bands inside ProTools and ideas of digital instrument systems hadn’t even occurred to me, I found myself craving ways to physically and tactilely work with sound. 
+
+That being said, the idea that an interface is an ideology and itself defines what is musically possible is something that really resonates with - I just think the physical input part of that system is just as important as the software side, and they should perhaps be considered holistically. 
+
+Additionally, Magnusson mentions the importance of mapping and I found my mind wandering back to the Braitenberg vehicles. I want to try experimenting with dynamically generating mappings - whether from physical controller or GUI or internal - based on the output of the same system. I can imagine having to continuously respond to changes in input mapping itself to be a very engaging process. 
+
+
+
 ## Literature Review - Part 2
-Bibliography
+### Bibliography
 
 Anderson, Christine. “Dynamic Networks of Sonic Interactions: An Interview with Agostino Di Scipio.” Computer Music Journal 29, no. 3 (2005): 11–28. https://doi.org/10.1162/0148926054798142. 
 
