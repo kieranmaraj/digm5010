@@ -244,8 +244,8 @@ The vehicles, with their varying behaviours, take the place of 'Element 2's in t
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
-![Vehicles](https://github.com/kieranmaraj/digm5010/images/vehicles/vehicles-bw-1.png)
-![Vehicles](https://github.com/kieranmaraj/digm5010/images/vehicles/vehicles-bw-2.png)
+![Vehicles](https://github.com/kieranmaraj/digm5010/blob/gh-pages/images/vehicles/vehicles-bw-1.png?raw=true)
+![Vehicles](https://github.com/kieranmaraj/digm5010/blob/gh-pages/images/vehicles/vehicles-bw-2.png?raw=true)
 
 I then expanded the sketch from Reas's intial description by having it sample from visual material. I worked with the Flickr API to randomly load an image from Flickr. Instead of setting the colour as a gradient between black and white, each drawn circle samples from the loaded image. I experimented with various behaviours of sampling - choosing the portion of the image completely randomly, as a function of the distance of overlapping vehicles. One behaviour I particularly liked was a random sampling that gets held for the course of a collision - this results in these textural smears that feel almost like paint splatter paintings.
 
@@ -256,9 +256,9 @@ I then expanded the sketch from Reas's intial description by having it sample fr
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
-![Vehicles](https://github.com/kieranmaraj/digm5010/images/vehicles/vehicles-samp-3.png)
-![Vehicles](https://github.com/kieranmaraj/digm5010/images/vehicles/vehicles-samp-4.png)
-![Vehicles](https://github.com/kieranmaraj/digm5010/images/vehicles/vehicles-samp-2.png)
+![Vehicles](https://github.com/kieranmaraj/digm5010/blob/gh-pages/images/vehicles/vehicles-samp-3.png?raw=true)
+![Vehicles](https://github.com/kieranmaraj/digm5010/blob/gh-pages/images/vehicles/vehicles-samp-4.png?raw=true)
+![Vehicles](https://github.com/kieranmaraj/digm5010/blob/gh-pages/images/vehicles/vehicles-samp-2.png?raw=true)
 
 
 ## Journal 2
