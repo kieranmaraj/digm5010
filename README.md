@@ -1,24 +1,20 @@
-# digm5010
-{:.no_toc}
-DM Foundations
-
-# Contents
+## Contents
 {:.no_toc}
 
 * Will be replaced with the ToC, excluding the "Contents" header
 {:toc}
 
 
-## Video Tutorial
+# Video Tutorial
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/NrkohuvRBGo/0.jpg)](http://www.youtube.com/watch?v=NrkohuvRBGo "Video Title")
 
-## Literature Review
+# Literature Review
 
-### Keywords
+## Keywords
 Electroacoustic music, digital musical instruments, feedback systems, machine listening
 
-### Research Question
+## Research Question
 
 I have to admit, the suggestion to project into the future an imagine what a field might look like has thrown me for a bit of a loop. Projections of the future look increasingly apocalyptic. I find myself asking questions about the purpose of music, performance, art in a climate apocalypse - and these questions are actually, I think, a little easier to grapple with. There is always value in art and expression, and comfort in times of strife. But, more specifically, what is the role of technologically mediated art in that environment? And, thinking of Small's definition above, who gets to be involved? Do technology based music become reserved for an affluent few? Are there ways that digital instruments/music making/performing exist to benefit a wider swath of people? Do these practices take on new roles? I don't know how to answer or really even engage with these questions, but they were in mind throughout my research process.
 
@@ -36,7 +32,7 @@ Some keywords:
 
 On the last point, machine listening, I found something unexpected. In looking into machine listening, I was expecting to find work dealing with machine analysis and interpretation of sound, spectral analysis, auditory scene analysis, and so on. What was surprising was finding an emerging use of the term to refer to devices that listen and observe - smart phones that record audio surreptitiously, Amazon Alexas and Google Homes, smart TVs and IoT connected appliances - related to present issues around surveillance, privacy, control, and manipulation. This is another area that I'm very interested in - and that I do think is related in issues around machine learning and big data - but have struggled to figure out how to engage with creatively, or to synthesize with my sound and music interests. The apparent synchronicity of stumbling upon this new use of "machine listening" has me wondering if there is an interesting way to think about surveillance, sound performance, and musical systems - but maybe I'm going to broad when I should be narrowing in.
 
-### Initial Reading List
+## Initial Reading List
 
 Anderson, Christine. “Dynamic Networks of Sonic Interactions: An Interview with Agostino Di Scipio.” Computer Music Journal 29, no. 3 (2005): 11–28. https://doi.org/10.1162/0148926054798142. 
 
@@ -118,7 +114,7 @@ Wessel, David, and Matthew Wright. “Problems and Prospects for Intimate Musica
 
 Xia, Guangyu. “Expressive Collaborative Music Performance via Machine Learning,” 2016.
 
-### Annotated Bibliography
+## Annotated Bibliography
 
 Cypess, Rebecca, and Steven Kemper. “The Anthropomorphic Analogy: Humanising Musical Machines in the Early Modern and Contemporary Eras.” Organised Sound 23, no. 2 (2018): 167–80. https://doi.org/10.1017/s1355771818000043. 
 
@@ -219,16 +215,16 @@ Truax, Barry. “Electroacoustic Music and the Soundscape: The Inner and Outer W
 	
   Truax also points to a relationship of control with the computer, control again frequently coming up in my literature review. He points to having a shepherd like relation with the computer - one where the computer makes many of the choices in composing, but the human must guide it to a desirable place. This sounds similar to the process of working with AESI. This work was published in 1992, and I wonder if Truax’s thoughts on control and this element of the human-computer relationship has changed?
 
-### Findings
+## Findings
 
 One element I found that appeared consistently was an implied understanding of instruments via the body. The Anthropomorphic Analogy paper **does** make this connection explicit, but in many of the other works, the same thread exists, even though it is not the focus. I also noticed a lack of this instrument-body understanding in the works that focused on feedback systems. I wonder if there is a way to make connections between body and feedback system as instrument - is there some unexplored understanding there? The relationship between body, instrument, and computer is one that I'm very interested in exploring further. 
 
 Additionally, another consistent thread, though not always explicit, seems to be viewing the construction of interactive music systems and the relationships and values embedded in those interactions as ways of imagining the world and constructing new social relationships. To this end, I think constructing systems that facilitate collaboration and that can augment the music making experience is another angle that I find very appealing.
 
 
-## Journal 3
+# Journal 3
 
-### Sketch #3: Vehicles Alterations & Process 8
+## Sketch #3: Vehicles Alterations & Process 8
 
 I've expanded on the vehicles sketch from class in a few ways. First, I've modified the code to use classes - I like working this way because it allows me to compartmentalize aspects of the program. With this implementation, it becomes simpler to modify vehicles and to create different behaviours. I can create a number of vehicles and randomly assign each one a behaviour from a predefined set. From there I decided to use the vehicles as drivers of another layer of animation - they provided a sort of underlying environment, an invisible merkwelt, to drive the visible animation. I took inspiration from Process 8 of [Casey Reas's Process Compendium](http://www3.reas.com/text). 
 
@@ -269,9 +265,9 @@ I then expanded the sketch from Reas's intial description by having it sample fr
 ![Vehicles](https://github.com/kieranmaraj/digm5010/blob/gh-pages/images/vehicles/vehicles-samp-2.png?raw=true)
 
 
-## Journal 2
+# Journal 2
 
-### Sketch #2: Chitin
+## Sketch #2: Chitin
 
 [Chitin](https://en.wikipedia.org/wiki/Chitin) is the material that composes insect exoskeletons. It is also an updated version of my previous GrainSOM sketch that implements several of changes I had previously noted. In this version, input gestures have more influence on the sonic behaviour - fast movements result in pitch modulations (a pseduo-doppler effect), longer gestures are routed through a reverb engine, and the mark position influences grain size and overlap. As before, there is a SOM underneath the animation. Whereas in the previous version the SOM weights directly set synthesis parameters, this time the SOM weights modulate those values. I find I prefer this balance between human gesture and machine control - this balance provides variety and unpredictable randomness, but it applies it to a gesture that feels like it had more intention to begin with. 
 
@@ -284,7 +280,7 @@ I’ve additionally implemented some random sampling from [freesound.org](http:/
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
-### Braitenberg Vehicles
+## Braitenberg Vehicles
 
 I had read the first few vehicle descriptions several years ago, and it was interesting to come back to it after a period of time in which the way I think has changed quite a bit. From this subset of vehicles, one of the things that seems unaccounted for is self awareness - Braitenberg  only posits that the vehicles *appear* to be aware to an outside observer. I’m curious if the later vehicles find ways to take this into account. 
 
@@ -292,7 +288,7 @@ The idea that intelligent beings are simply composed of a vast array of simple s
 
 Regarding the more technical systems design material, though, I’m less conflicted and mostly just excited about the possibilities of applying some of these concepts in sound systems. I found myself thinking again about no-input mixing and how many of the feedback loops, gates and thresholds Braitenberg discusses feel like qualities inherent in a no-input mixer - thresholds for big sonic leaps, a dynamic variation of those thresholds, complex behaviour emerging from simple mappings, and behaviour at the output directly feeding back into the system. 
 
-### Interface as Instrument
+## Interface as Instrument
 
 This piece really resonated with me, as well as gave me a bit of a laugh. It was published in 2005, which would have been right around the time I first started playing with digital audio with a copy of Cool Edit Pro, and I find it so funny that what Magnusson says about digital instruments not needing to be so indebted to analog studio technology is a major frustration I’ve had with the world of DAWs and plugins, 15 years later. It’s definitely gotten better in the last few years, I think in part due to the popularity of modular synthesis, but it certainly feels like there’s still vast room for experimentation, even in the world of commercial software. I’ve personally often found weird, free plugins that only work half the time to be the most interesting sound generators. 
 
@@ -304,9 +300,9 @@ Additionally, Magnusson mentions the importance of mapping and I found my mind w
 
 
 
-## Literature Review - Part 2
+# Literature Review - Part 2
 {:.no_toc}
-### Bibliography
+## Bibliography
 {:.no_toc}
 
 Anderson, Christine. “Dynamic Networks of Sonic Interactions: An Interview with Agostino Di Scipio.” Computer Music Journal 29, no. 3 (2005): 11–28. https://doi.org/10.1162/0148926054798142. 
@@ -391,9 +387,9 @@ Xia, Guangyu. “Expressive Collaborative Music Performance via Machine Learning
 
 
 
-## Journal 1
+# Journal 1
 
-### Sketch #1: GrainSOM
+## Sketch #1: GrainSOM
 
 Looping is an important of my practice - the trajectory of my instrumentation included a path from guitar -> guitar with pedals -> guitar with laptop processing -> computer based instrumentation. Throughout that chain, looping has been a fundamental part. With it has come the challenge of using and interacting with loops that allows them to move beyond static repetitions with maybe variations in time or pitch - how can I capture some sonic input and have dynamically transform and react over time? Some of my recent performance systems have included looping control gestures - draw some sort of shape or path with a stylus, map it out to some synthesis process, and then loop that control data. Seeing the initial Yellowtail sketch, I instantly imagined each mark as a control gesture, and it’s movement in space a possible way for having it evolve over time.
 
@@ -418,7 +414,7 @@ Trying to implement this also allowed me to start exploring something that’s b
 - A mark’s alpha sets it’s grain’s volume
 - The SOM would instead modulate synthesis parameters instead of directly setting those parameters
 
-### No Input Mixing
+## No Input Mixing
 
 The prompt to reflect on no input mixing was a nice excuse to revisit the practice, as its been a year or two since I last worried I might push my monitors too hard :)
 
