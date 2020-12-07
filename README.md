@@ -1,6 +1,13 @@
 # digm5010
 DM Foundations
 
+# Contents
+{:.no_toc}
+
+* Will be replaced with the ToC, excluding the "Contents" header
+{:toc}
+
+
 ## Video Tutorial
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/NrkohuvRBGo/0.jpg)](http://www.youtube.com/watch?v=NrkohuvRBGo "Video Title")
