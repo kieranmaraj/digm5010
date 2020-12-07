@@ -1,4 +1,5 @@
 # digm5010
+{:.no_toc}
 DM Foundations
 
 # Contents
@@ -304,7 +305,9 @@ Additionally, Magnusson mentions the importance of mapping and I found my mind w
 
 
 ## Literature Review - Part 2
+{:.no_toc}
 ### Bibliography
+{:.no_toc}
 
 Anderson, Christine. “Dynamic Networks of Sonic Interactions: An Interview with Agostino Di Scipio.” Computer Music Journal 29, no. 3 (2005): 11–28. https://doi.org/10.1162/0148926054798142. 
 
