@@ -13,7 +13,7 @@ Ears for Live has been developed as a Max for Live device that can be used in th
 
 ![E4L](https://github.com/kieranmaraj/digm5010/blob/gh-pages/images/e4l/defaultDevice.jpg?raw=true)
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/C5HYo9AVDk/0.jpg)](https://www.youtube.com/watch?v=C5HYo9AVDkc "Loudness to Volume")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/C5HYo9AVDkc/0.jpg)](https://www.youtube.com/watch?v=C5HYo9AVDkc "Loudness to Volume")
 
 *Video demonstrating drum loudness to synth volume mapping*
 
