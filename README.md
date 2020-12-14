@@ -4,6 +4,10 @@
 * Will be replaced with the ToC, excluding the "Contents" header
 {:toc}
 
+# Final Paper
+
+[Final Paper: Ears for Live](https://kieranmaraj.github.io/digm5010/ears_for_live)
+
 
 # Video Tutorial
 

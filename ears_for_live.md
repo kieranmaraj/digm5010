@@ -1,5 +1,6 @@
-# Ears For Live
-## Kieran Maraj
+# Ears For Live: 
+## Generating control through real-time machine listening
+### Kieran Maraj
 
 *[Download Ears for Live here](https://drive.google.com/file/d/1QNLGjQmtGtTkpf-bruJFRpQh2Mge-S1y/view?usp=sharing)*
 
